@@ -12,12 +12,12 @@
 2. Once the driver arrives, the dialog boxes cannot be closed by client. Due to alternating response mechanism between the driver and the client, once a dialog box opens in client, click 'Okay', after which the driver can proceed with his responses. 
 
 
-Prerequisites :
+### Prerequisites :
 1. Internet Connection
 2. Valid API key (supplied with the code)
 3. Python 3.x+
 
-Modules needed :
+### Modules needed :
 1. sockets
 2. requests
 3. gmplot
